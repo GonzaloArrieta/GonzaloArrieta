@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Gonzalo Arrieta 👋</h1>
+<h1 align="center">¡Hola! Soy Gonzalo Arrieta </h1>
 
 🎯 *QA Tester orientado a la automatización de pruebas con enfoque en calidad, eficiencia y buenas prácticas.*
 

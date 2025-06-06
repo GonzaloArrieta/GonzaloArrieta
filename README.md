@@ -23,7 +23,7 @@
 - 📍 El Palomar, Buenos Aires, Argentina
 - ✉️ pablogonzaloarrieta7@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/pablo-gonzalo-arrieta7/)
-- 🌐 [Portfolio (opcional si lo tenés)](https://...)
+- 🌐 [Portfolio](https://https://github.com/GonzaloArrieta)
 
 ---
 
